@@ -20,7 +20,7 @@
 
 <img src="kansiorakenne.png" width=200 alt="Projektikansion rakenne"/>
 
-Kaikki seuraavat komennot annetaan projektin juuresta. Ympäristönä on Ubuntu (WSL2).
+Kaikki seuraavat komennot annetaan projektin juuresta (samalta hakemiston tasolta missä md-tiedostot). Ympäristönä on Ubuntu (WSL2).
 
 ## ASENNUS
 

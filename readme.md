@@ -54,7 +54,7 @@ uvicorn AnturiAPI.app:app --reload
 
 Testit löytyy tests-kansiosta.
 
-Testien ajaminen.
+Testien ajaminen (virtuaaliympäristössä).
 
 ```shell
 python -m pytest -vv
@@ -65,3 +65,5 @@ Testit luo erillisen tietokannan "test.db". Testin loputtua tietokanta tyhjenee 
 ## HUOMIOT
 
 **Mittaustyyppi on lisättävä hallinnan (admin) kautta mittaus-tauluun ennen mittauksen lisäämistä (admin tekee). Muuten tulee virheviesti!**
+
+**Anturin ja lohkon nimen kirjoittaminen on merkkikokoriippuvainen (case-sensitive)**
